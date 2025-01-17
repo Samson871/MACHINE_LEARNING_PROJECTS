@@ -1,5 +1,0 @@
-flask
-pickle-mixin
-nltk
-tensorflow
-numpy
